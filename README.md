@@ -1,5 +1,9 @@
-# snake-game-AI
+# reach-target-AI
 A Machine Learning project in Unity to teach the agent how to play the snake game.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7780770/113526671-5859aa80-9591-11eb-8b36-58c2f422249f.gif">
+</p>
 
 ## Running
 
